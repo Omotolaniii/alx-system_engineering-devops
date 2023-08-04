@@ -1,0 +1,1 @@
+This repository contains scripts and projects related to the ALX System Engineering & DevOps curriculum. Each project focuses on different aspects of system administration, shell scripting, and DevOps practices.
